@@ -1,10 +1,10 @@
-Hi, I'm Ayesha Khanum 👋
+## Hi, I'm Ayesha Khanum 👋
 
 Aspiring Business Analyst | Analytics Enthusiast 📊
 
 I'm an M.Com Finance graduate interested in transforming data into meaningful business insights. My experience in operations has helped me understand day-to-day business processes, reporting, and operational challenges.
 
-🚀 About Me
+## 🚀 About Me
 
 - 🎓 M.Com in Finance
 - 💼 Experience in delivery operations
@@ -12,14 +12,14 @@ I'm an M.Com Finance graduate interested in transforming data into meaningful bu
 - 🌱 Currently strengthening my SQL, Excel, and Power BI skills
 - 🎯 Goal: Start my career as a Business Analyst
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 - Excel: Advanced Excel, dashboards, KPI reporting
 - SQL: Queries, joins, aggregations, data analysis
 - Power BI: Data visualization and interactive dashboards
 - Business Analysis: Reporting, problem-solving, and process understanding
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 1. SQL Data Warehouse Project
 
@@ -29,12 +29,12 @@ Building a data warehouse using SQL, including ETL processes, data modelling, an
 
 Developing an Excel dashboard to organize operational data and present key performance indicators.
 
-📜 Certifications
+## 📜 Certifications
 
 - Power BI – Simplilearn
 - Data Analytics Job Simulation – Tata Group, Forage
 
-📈 Currently Learning
+## 📈 Currently Learning
 
 - SQL for data analysis
 - Business requirements and KPI analysis
